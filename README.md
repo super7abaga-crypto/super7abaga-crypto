@@ -54,6 +54,8 @@ My focus is on getting the fundamentals right, then turning them into things tha
 
 <div align="center">
 
+![Isometric skyline of super7abaga-crypto contributions in the last 12 months](assets/contrib-city.svg)
+
 ![super7abaga-crypto GitHub totals for stars, commits, pull requests and issues](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=super7abaga-crypto&bg_color=191B27&title_color=FF7642&text_color=C7D1DD&icon_color=FF7642)
 
 ![super7abaga-crypto GitHub contribution streak: current and longest streaks](https://github-readme-streak-stats.herokuapp.com/?user=super7abaga-crypto&hide_border=true&background=191B27&stroke=FF7642&ring=FF7642&fire=FF7642&currStreakLabel=FF7642&sideLabels=C7D1DD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C7D1DD)
