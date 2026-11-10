@@ -64,13 +64,12 @@ My focus is on getting the fundamentals right, then turning them into things tha
 
 ## 🌱 Current Focus
 
-I'm currently focused on:
-
-- Strengthening my Python fundamentals
-- Backend development and API design
-- Writing tested, reliable code
-- Building tools for campus and community use
-- Learning AI engineering from the ground up
+I’m currently focused on:
+-  Strengthening my Python fundamentals
+-  Backend development and API design
+-  Learning AI engineering from the ground up
+-  Building production-style backend projects
+-  Building real projects.
 
 ## 🧩 Featured Projects
 
