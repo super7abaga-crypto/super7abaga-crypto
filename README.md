@@ -14,13 +14,14 @@ My focus is on getting the fundamentals right, then turning them into things tha
 
 </div>
 
-## 🚀 What I'm Into
-
-- Software development with Python
+## 🚀 What I’m Into
+- Software development
 - Building backends and APIs
-- Campus and community tools that solve real problems
 - Web development with JavaScript, HTML and CSS
 - Learning new technologies through project-based practice
+- Python programming and automation
+- AI engineering and building AI-powered applications
+- Turning ideas into working products, one small project at a time
 
 ## 🛠️ Tech Stack
 
