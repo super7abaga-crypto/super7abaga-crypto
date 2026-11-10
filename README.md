@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/281935780?v=4" width="150" alt="Odeh's GitHub avatar" />
+<img src="assets/big7-logo.png" width="150" alt="BIG7 ODDBYTE logo: a 3x3 grid of light blue and orange squares above the orange BIG7 wordmark, with ODDBYTE and the tagline TECH · STORY · VIBES below" />
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=800&color=0251B0&center=true&vCenter=true&width=600&repeat=false&lines=Hi%2C+I'm+ODEH" alt="Animated line typing out: Hi, I'm ODEH" width="600" />
