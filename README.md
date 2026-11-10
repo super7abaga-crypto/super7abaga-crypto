@@ -81,15 +81,7 @@ A command-line ticket management system for campus IT support, with priority sco
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
-### 2. [Okwii-s-Grocery-Store](https://github.com/super7abaga-crypto/Okwii-s-Grocery-Store)
-
-A grocery store application with a Python FastAPI backend (database models, schemas, security) and an HTML, CSS and JavaScript storefront.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 3. [Freshmart](https://github.com/super7abaga-crypto/Freshmart)
+### 2. [Freshmart](https://github.com/super7abaga-crypto/Freshmart)
 
 A full-stack grocery app with a Node.js/Express backend (auth, products, orders, file and PostgreSQL data layers) and a lightweight frontend, ready to deploy on Render.
 
@@ -97,19 +89,19 @@ A full-stack grocery app with a Node.js/Express backend (auth, products, orders,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
-### 4. [Deepfake-Detection-System](https://github.com/super7abaga-crypto/Deepfake-Detection-System)
+### 3. [Deepfake-Detection-System](https://github.com/super7abaga-crypto/Deepfake-Detection-System)
 
 A Python backend for detecting manipulated images, organised into routes and service layers for clean, testable image handling.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 
-### 5. [NewPro](https://github.com/super7abaga-crypto/NewPro)
+### 4. [NewPro](https://github.com/super7abaga-crypto/NewPro)
 
 A pair of Python builds: Mystery-Island, a text-based game with its own test suite and design notes, and TournamentLab, a tournament fixtures and standings tool.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 
-### 6. [Odeh-Myles](https://github.com/super7abaga-crypto/Odeh-Myles)
+### 5. [Odeh-Myles](https://github.com/super7abaga-crypto/Odeh-Myles)
 
 Small Python scripts from my fundamentals practice: a number guessing game, a binary-search version where the computer guesses your number, and a cryptographically secure password generator.
 
