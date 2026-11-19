@@ -100,6 +100,7 @@ footprint, train loss is days since the last deploy.
 
 <sub>
 Every card above is drawn by <a href="cards/generate.py"><code>cards/generate.py</code></a>
-from the live GitHub API — no third-party widget services, so nothing here can go blank
-when someone else's free tier expires.
+from the live GitHub API and committed back to this branch daily by
+<a href=".github/workflows/cards.yml"><code>cards.yml</code></a> — no third-party
+widget services, so nothing here can go blank when someone else's free tier expires.
 </sub>
