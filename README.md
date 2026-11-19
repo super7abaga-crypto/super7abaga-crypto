@@ -1,88 +1,128 @@
 <div align="center">
-  <img src="assets/big7-logo.png" width="120" alt="BIG7 ODDBYTE logo: a 3x3 grid of light blue and orange squares above the orange BIG7 wordmark, with ODDBYTE and the tagline TECH · STORY · VIBES below" />
+
+<p align="center">
+<img src="assets/big7-logo.png" width="150" alt="BIG7 ODDBYTE logo: a 3x3 grid of light blue and orange squares above the orange BIG7 wordmark, with ODDBYTE and the tagline TECH · STORY · VIBES below" />
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=800&color=0251B0&center=true&vCenter=true&width=600&repeat=false&lines=Hi%2C+I'm+ODEH" alt="Animated line typing out: Hi, I'm ODEH" width="600" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=619&size=24&pause=1000&color=0251B0&center=true&vCenter=true&width=1000&lines=Developer+%7C+Python+Learner+%7C+Backend+Builder+%7C+Problem+Solver" alt="Animated typing line reading: Developer | Python Learner | Backend Builder | Problem Solver" />
+
+I'm a developer learning in public, building real projects with **Python, JavaScript, and clean, thoughtful code** that solves problems I actually run into.
+
+My focus is on getting the fundamentals right, then turning them into things that are **useful, reliable, and easy to use**.
+
 </div>
+
+## 🚀 What I’m Into
+- Software development
+- Building backends and APIs
+- Web development with JavaScript, HTML and CSS
+- Learning new technologies through project-based practice
+- Python programming and automation
+- AI engineering and building AI-powered applications
+- Turning ideas into working products, one small project at a time
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases & Tools
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+## 📈 Live Activity
 
 <div align="center">
-  <img src="assets/cards/header.svg" alt="odeh1 — whoami" width="880">
+
+![super7abaga-crypto GitHub totals for stars, commits, pull requests and issues](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=super7abaga-crypto&bg_color=191B27&title_color=FF7642&text_color=C7D1DD&icon_color=FF7642)
+
+![super7abaga-crypto GitHub contribution streak: current and longest streaks](https://github-readme-streak-stats.herokuapp.com/?user=super7abaga-crypto&hide_border=true&background=191B27&stroke=FF7642&ring=FF7642&fire=FF7642&currStreakLabel=FF7642&sideLabels=C7D1DD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C7D1DD)
+
+![Top languages by commit across super7abaga-crypto repositories](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=super7abaga-crypto&bg_color=191B27&title_color=FF7642&text_color=C7D1DD&icon_color=FF7642)
+
 </div>
 
-<p align="center">
-  <em>Fifteen seconds of terminal instead of a paragraph about myself.</em>
-</p>
+## 🌱 Current Focus
 
-<p align="center">
-  I build with <strong>Python, JavaScript and clean, thoughtful code</strong> — learning in public,
-  one project at a time.
-</p>
+I'm currently focused on:
 
-<p align="center">
-  <a href="https://github.com/super7abaga-crypto?tab=repositories">repos</a>
-  &nbsp;·&nbsp; <a href="mailto:super7abaga@gmail.com">email</a>
-</p>
+- Strengthening my Python fundamentals
+- Backend development and API design
+- Writing tested, reliable code
+- Building tools for campus and community use
+- Learning AI engineering from the ground up
 
----
+## 🧩 Featured Projects
 
-## Training log
+### 1. [CampusFlowNext-OdReg](https://github.com/super7abaga-crypto/CampusFlowNext-OdReg)
 
-<img src="assets/cards/training_log.svg" alt="the contribution year as a training run" width="880">
+A command-line ticket management system for campus IT support, with priority scoring, specialist assignment, workload tracking and progress notes.
 
-One sample per week. Loss is the share of the year's contributions still owed, so the
-curve only converges when I actually ship. The marker sits at the current week.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
-## Recon
+### 2. [Okwii-s-Grocery-Store](https://github.com/super7abaga-crypto/Okwii-s-Grocery-Store)
 
-<img src="assets/cards/scope.svg" alt="daily contributions as a scope trace" width="880">
-<img src="assets/cards/portscan.svg" alt="repos as ports on host github.com" width="880">
-<img src="assets/cards/registry.svg" alt="repos as models in a registry" width="880">
+A grocery store application with a Python FastAPI backend (database models, schemas, security) and an HTML, CSS and JavaScript storefront.
 
-Every repo is a service on this host: **open** if pushed in the last 30 days,
-**filtered** within 90, **closed** beyond that. Ports are stable hashes of the repo
-name. The registry frames the same repos as models — version is stars, params is disk
-footprint, train loss is days since the last deploy.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## GitHub analytics
+### 3. [Freshmart](https://github.com/super7abaga-crypto/Freshmart)
 
-<img src="assets/cards/activity.svg" alt="contribution headline numbers and 30-day sparkline" width="880">
-<img src="assets/cards/heatmap.svg" alt="a year of contributions, one cell per day" width="880">
-<img src="assets/cards/langs.svg" alt="language mix by tracked bytes" width="880">
+A full-stack grocery app with a Node.js/Express backend (auth, products, orders, file and PostgreSQL data layers) and a lightweight frontend, ready to deploy on Render.
 
-## About me
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
-- 🔭 **Currently building:** a deepfake multimedia detection system — image, video and
-  audio classification served over FastAPI, with measured accuracy rather than claimed
-  accuracy. It is my final-year project.
-- 🌱 **Currently deepening:** Python fundamentals, backend and API design, and AI
-  engineering from the ground up.
-- 🧩 **Core stack:** Python, FastAPI, JavaScript, SQLite, Docker, Linux, Git.
-- 💬 **Ask me about:** building tools for campus and community use, or turning an idea
-  into a working product one small project at a time.
+### 4. [Deepfake-Detection-System](https://github.com/super7abaga-crypto/Deepfake-Detection-System)
 
-## Featured projects
+A Python backend for detecting manipulated images, organised into routes and service layers for clean, testable image handling.
 
-| Project | What it is |
-|---|---|
-| **[Deep-Fake](https://github.com/super7abaga-crypto/Deep-Fake)** | Final-year project. Upload an image, video or audio file; an ensemble of ViT and SigLIP detectors classifies it DEEPFAKE, SUSPICIOUS or AUTHENTIC, and explains the evidence. 0.961 AUC on 59 labelled files. |
-| **[Freshmart](https://github.com/super7abaga-crypto/Freshmart)** | Okwuii's Grocery Store — a grocery delivery app that renders its own pages, deployed on Render. [Live demo](https://freshmart-j97h.onrender.com). |
-| **[Student_Attendance](https://github.com/super7abaga-crypto/Student_Attendance)** | LEARN 2EARN student attendance portal: registration, sign-in, attendance record and QR check-in against the mentor's displayed code. |
-| **[CampusFlowNext-OdReg](https://github.com/super7abaga-crypto/CampusFlowNext-OdReg)** | Command-line ticket management for campus IT support — priority scoring, specialist assignment, workload tracking and progress notes. |
-| **[Okwii-s-Grocery-Store](https://github.com/super7abaga-crypto/Okwii-s-Grocery-Store)** | Grocery store application with a Python FastAPI backend (models, schemas, security) and an HTML, CSS and JavaScript storefront. |
-| **[NewPro](https://github.com/super7abaga-crypto/NewPro)** | Two Python builds: Mystery-Island, a text-based game with its own test suite, and TournamentLab, a fixtures and standings tool. |
-| **[Odeh-Myles](https://github.com/super7abaga-crypto/Odeh-Myles)** | Fundamentals practice: a number guessing game, a binary-search guessing game, and a cryptographically secure password generator. |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 
-## Tech stack
+### 5. [NewPro](https://github.com/super7abaga-crypto/NewPro)
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-  <img alt="pytest" src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white">
-</p>
+A pair of Python builds: Mystery-Island, a text-based game with its own test suite and design notes, and TournamentLab, a tournament fixtures and standings tool.
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+
+### 6. [Odeh-Myles](https://github.com/super7abaga-crypto/Odeh-Myles)
+
+Small Python scripts from my fundamentals practice: a number guessing game, a binary-search version where the computer guesses your number, and a cryptographically secure password generator.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+
+## 🔗 Connect With Me
+
+- GitHub: [super7abaga-crypto](https://github.com/super7abaga-crypto)
+- LinkedIn: [Add your profile](https://www.linkedin.com/)
+- Portfolio: [Add your site](https://github.com/super7abaga-crypto?tab=repositories)
+- Email: super7abaga@gmail.com
+
+## ✨ Closing Note
 
 <div align="center">
 
@@ -97,10 +137,3 @@ footprint, train loss is days since the last deploy.
 <sub>© 2026 Odeh</sub>
 
 </div>
-
-<sub>
-Every card above is drawn by <a href="cards/generate.py"><code>cards/generate.py</code></a>
-from the live GitHub API and committed back to this branch daily by
-<a href=".github/workflows/cards.yml"><code>cards.yml</code></a> — no third-party
-widget services, so nothing here can go blank when someone else's free tier expires.
-</sub>
